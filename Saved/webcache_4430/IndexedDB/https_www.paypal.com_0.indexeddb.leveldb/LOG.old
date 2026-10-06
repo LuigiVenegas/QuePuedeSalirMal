@@ -1,0 +1,15 @@
+2026/10/05-16:46:10.734 5c24 Reusing MANIFEST C:/Users/rikib/OneDrive/Documents/QuePuedeSalirMal/Saved/webcache_4430\IndexedDB\https_www.paypal.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/05-16:46:10.735 5c24 Recovering log #23
+2026/10/05-16:46:10.735 5c24 Reusing old log C:/Users/rikib/OneDrive/Documents/QuePuedeSalirMal/Saved/webcache_4430\IndexedDB\https_www.paypal.com_0.indexeddb.leveldb/000023.log 
+2026/10/05-16:46:12.796 48ec Level-0 table #28: started
+2026/10/05-16:46:12.799 48ec Level-0 table #28: 538 bytes OK
+2026/10/05-16:46:12.801 48ec Delete type=0 #23
+2026/10/05-16:46:12.801 48ec Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/10/05-16:46:12.801 48ec Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x1f\x01\x04\x00d\x00_\x00i\x00d\x00\x01\x04\x00d\x00_\x00i\x00d' @ 155 : 1
+2026/10/05-16:46:12.801 48ec Compacting 1@1 + 1@2 files
+2026/10/05-16:46:12.804 48ec Generated table #29@1: 24 keys, 631 bytes
+2026/10/05-16:46:12.804 48ec Compacted 1@1 + 1@2 files => 631 bytes
+2026/10/05-16:46:12.805 48ec compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/05-16:46:12.805 48ec Delete type=2 #25
+2026/10/05-16:46:12.805 48ec Delete type=2 #28
+2026/10/05-16:46:12.806 48ec Manual compaction at level-1 from '\x00\x01\x01\x1f\x01\x04\x00d\x00_\x00i\x00d\x00\x01\x04\x00d\x00_\x00i\x00d' @ 155 : 1 .. (end); will stop at (end)
